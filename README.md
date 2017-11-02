@@ -6,4 +6,4 @@ We would like to thank our sponsors: IBM, Bosch, Deloitte, Github, Tekt Industri
 
 This year theme is Superheroes. We will be using IBM BlueMix, Tekt Board connecting with Rasberry Pi.
 
-The basic tutorials can be found in the respective folder.
+This repo contains the basic tutorials for the aforementioned technologies.
