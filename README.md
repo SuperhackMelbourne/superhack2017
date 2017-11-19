@@ -4,6 +4,6 @@ Superhack is organised by MUEEC (Melbourne University Electrical Engineering Clu
 
 We would like to thank our sponsors: IBM, Bosch, Deloitte, Github, Tekt Industries, Microsoft, Salesforce and Melbourne School of Engineering for their support.
 
-This year theme is Superheroes. We will be using IBM BlueMix, Tekt Board connecting with Rasberry Pi.
+We will be using IBM BlueMix & Node Red, with a custom Tekt Board connecting to a variety of sensors.
 
-This repo contains the basic tutorials for the aforementioned technologies.
+This repo will be updated with the basic tutorials for the aforementioned technologies as we get closer to the event!
