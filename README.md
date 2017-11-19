@@ -4,6 +4,6 @@ Superhack is organised by MUEEC (Melbourne University Electrical Engineering Clu
 
 We would like to thank our sponsors: IBM, Bosch, Deloitte, Github, Tekt Industries, Microsoft, Salesforce and Melbourne School of Engineering for their support.
 
-We will be using IBM BlueMix & Node Red, with a custom Tekt Board connecting to a variety of sensors.
+We will be using IBM BlueMix & Node Red, with a custom Tekt Board connecting to a variety of sensors, source from a [Grove starter kit.](https://www.seeedstudio.com/Grove-Starter-Kit-Plus-p-1294.html)
 
 This repo will be updated with the basic tutorials for the aforementioned technologies as we get closer to the event!
