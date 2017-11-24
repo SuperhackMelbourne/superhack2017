@@ -1,0 +1,21 @@
+author: Tekt Industries
+description: An example app for the Grove Buzzer on the re:Invent board
+version: 1.0
+
+libs_version: ${mos.version}
+modules_version: ${mos.version}
+mongoose_os_version: ${mos.version}
+
+sources:
+  - src
+filesystem:
+  - fs
+libs:
+  - origin: https://github.com/mongoose-os-libs/mjs
+  - origin: https://github.com/accumulatos/grove
+
+tags:
+  - js
+  - hw
+
+manifest_version: 2017-05-18
