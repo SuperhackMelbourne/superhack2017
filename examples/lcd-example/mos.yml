@@ -1,0 +1,21 @@
+author: Jonathon Grigg
+description: A test app for the LCD library
+version: 1.0
+
+libs_version: ${mos.version}
+modules_version: ${mos.version}
+mongoose_os_version: ${mos.version}
+
+sources:
+  - src
+filesystem:
+  - fs
+libs:
+  - origin: https://github.com/accumulatos/lcd
+  - origin: https://github.com/mongoose-os-libs/js-demo-bundle
+
+tags:
+  - js
+  - hw
+
+manifest_version: 2017-05-18
