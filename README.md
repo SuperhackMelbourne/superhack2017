@@ -11,23 +11,4 @@ This repo will be updated with the basic tutorials for the aforementioned techno
 
 
 ## Getting starting
-_Installing Mongose OS on Linux_
-
-    sudo add-apt-repository ppa:mongoose-os/mos
-    sudo apt-get update
-    sudo apt-get install mos
-
-    mos --help
-    mos
-
-_Installing Mongose OS on Windows_
-
-    Go to: [https://mongoose-os.com/software.html](https://mongoose-os.com/software.html),
-    Download "mos.exe"
-    Follow the wizard
-
-_Installing Mongose OS on Mac_
-
-    curl -fsSL https://mongoose-os.com/downloads/mos/install.sh | /bin/bash
-    ~/.mos/bin/mos --help      
-    ~/.mos/bin/mos
+Follow [Installation guide](https://github.com/SuperhackMelbourne/superhack2017/blob/master/Installation.md) to get started with Mongoose OS on the custom Tekt Board.
