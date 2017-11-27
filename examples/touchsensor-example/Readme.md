@@ -1,6 +1,7 @@
 # Introduction
 This is a digital module that outputs a HIGH signal when a finger is touching
-or nearby to the white circle on the blue circuit board.
+or nearby to the white circle on the blue circuit board. It's basically just
+like a button :O
 
 # Using the vibration sensor
 Using a Grove cable, connect the vibration sensor to the 'DIGITAL GROVE'

@@ -1,4 +1,8 @@
 load('api_grove.js');
-load('api_timer.js');
+load('api_tektboard.js');
 
-// Unimplemented for now (sorry)
+Grove.VibrationSensor.attach(TektBoard.DIGITAL_GROVE_PIN, function(pin) {
+  // this runs when the vibration sensor is triggered
+  print('Vibration event at pin', pin);
+  // do other cool stuff here
+}, null);

@@ -1,5 +1,5 @@
-author: Jonathon Grigg
-description: A test app for the LCD library
+author: Tekt Industries
+description: An example app for the Grove Temperature Sensor on the re:Invent board
 version: 1.0
 
 libs_version: ${mos.version}

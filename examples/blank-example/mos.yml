@@ -18,6 +18,7 @@ libs:
   - origin: https://github.com/accumulatos/dotstar
   - origin: https://github.com/accumulatos/grove
   - origin: https://github.com/accumulatos/lcd
+  - origin: https://github.com/accumulatos/tektboard
 
 tags:
   - js
