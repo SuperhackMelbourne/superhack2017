@@ -11,8 +11,10 @@ sources:
 filesystem:
   - fs
 libs:
-  - origin: https://github.com/accumulatos/lcd
   - origin: https://github.com/mongoose-os-libs/js-demo-bundle
+  - origin: https://github.com/accumulatos/dotstar
+  - origin: https://github.com/accumulatos/grove
+  - origin: https://github.com/accumulatos/lcd
 
 tags:
   - js
