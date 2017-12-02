@@ -1,0 +1,38 @@
+author: Tekt Industries
+description: IBM Cloud Integration
+version: 1.0
+
+libs_version: ${mos.version}
+modules_version: ${mos.version}
+mongoose_os_version: ${mos.version}
+
+sources:
+  - src
+filesystem:
+  - fs
+config_schema:
+  - ["wifi.sta.enable", true]
+  - ["wifi.sta.ssid", "xxxxxx"]
+  - ["wifi.sta.pass", "xxxxxxx"]
+  - ["spi.enable", true]
+  - ["spi.mosi_gpio", 16]
+  - ["spi.sclk_gpio", 14]
+  - ["mqtt.enable", true]
+  - ["mqtt.server", "xxxxxxx.messaging.internetofthings.ibmcloud.com:1883"]
+  - ["mqtt.client_id", "g:xxxxx:xxxxx:xxxxx"]
+  - ["mqtt.user", "use-token-auth"]
+  - ["mqtt.pass", "xxxx"]
+
+libs:
+libs:
+  - origin: https://github.com/mongoose-os-libs/js-demo-bundle
+  - origin: https://github.com/accumulatos/dotstar
+  - origin: https://github.com/accumulatos/grove
+  - origin: https://github.com/accumulatos/lcd
+  - origin: https://github.com/accumulatos/tektboard
+
+tags:
+  - js
+  - hw
+
+manifest_version: 2017-05-18
