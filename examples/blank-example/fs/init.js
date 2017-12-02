@@ -3,7 +3,7 @@
 
 
 // Load libraries here
-load('api_tektboard');
+load('api_tektboard.js');
 
 
 // The rest of your code generally goes here
